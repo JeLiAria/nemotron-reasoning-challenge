@@ -1,7 +1,7 @@
 [project]
-name = "claude-code-template"
+name = "nemotron-reasoning-challenge"
 version = "0.1.0"
-description = "Add your description here"
+description = "Pipeline SFT LoRA pour le NVIDIA Nemotron Model Reasoning Challenge (Kaggle, 2026)"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
