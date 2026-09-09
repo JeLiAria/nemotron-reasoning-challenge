@@ -1,0 +1,14 @@
+{
+  "id": "lickel/reverse-engineering-the-ceiling",
+  "title": "Reverse-engineering the ceiling",
+  "code_file": "kaggle_writeup_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "competition_sources": ["nvidia-nemotron-model-reasoning-challenge"],
+  "kernel_sources": []
+}
